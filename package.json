@@ -1,0 +1,11 @@
+{
+  "name": "pdfservicessdk-node.jssamples",
+  "version": "1.0.0",
+  "description": "The downloaded zip file contains your API credentials and personalized code samples. Please store your API credentials securely. You can also access a copy on the dashboard of your Adobe Developer Console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charu",
+  "license": "ISC"
+}
